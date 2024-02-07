@@ -1,4 +1,4 @@
-# Frontend Mentor - 3-column preview card component solution
+# 3-column preview card component
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-).
 
@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Hosted on Netlify](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-three-column-preview-card-component-3oLXx3pY8M)
+- Live Site URL: [Hosted on Netlify](https://three-column-preview-cards.netlify.app/)
 
 ### Built with
 
